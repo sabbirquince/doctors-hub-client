@@ -1,0 +1,22 @@
+.header {
+    min-height: 100vh;
+    position: relative;
+    background-color: #FFE3FE;
+    background-image: url("../../images/doctor-work.jpg");
+    background-color: #93329e2c;
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+
+}
+
+.header::after {
+    content: "";
+    position: absolute;
+    width: 35%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    background-color: #93329e5b;
+}

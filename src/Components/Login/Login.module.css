@@ -1,0 +1,19 @@
+.login {
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #430a675d 62.5%, #93329ea4 62.5%), url("../../images//portrait-doctor.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+}
+
+.login div {
+    width: 25%;
+    margin-left: auto;
+    transform: translateY(100%) translateX(-25%);
+    background-color: #430a67cb;
+    border-radius: 3px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+    padding: 3rem 2.5rem;
+
+}

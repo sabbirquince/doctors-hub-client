@@ -1,0 +1,15 @@
+.card {
+    flex: 0 0 24%;
+    margin-bottom: 1.333%;
+    padding: 1.5rem;
+    border-radius: 3px;
+}
+
+.card:not(:nth-child(4n)) {
+    margin-right: 1.3333%;
+}
+
+.img {
+    height: 3.75rem;
+    border-radius: 50px;
+}

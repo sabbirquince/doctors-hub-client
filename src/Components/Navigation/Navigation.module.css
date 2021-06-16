@@ -1,0 +1,17 @@
+.navigation {
+    position: relative;
+    z-index: 10;
+    background-color: #4f1574;
+
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+}
+
+.brandImg {
+    height: 2.5rem;
+    align-self: flex-start;
+    margin-right: 1rem;
+}
