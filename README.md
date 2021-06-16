@@ -2,13 +2,13 @@
 
 ### Features:
 
-#### 1. Search: User can search for doctors by their name, specialty.
+### 1. Search: User can search for doctors by their name, specialty.
 
-#### 2. User must login with google unless restricted to use this website's features.
+### 2. User must login with google unless restricted to use this website's features.
 
-### Info:Project is built with React.js. Google authentication is built with firebase google authentication system. Client side is deployed on Firebase also. Server side is built with node.js. Deployed on Heroku.
+#### Info: Google authentication is built with firebase google authentication system. Project is built with React.js. In homepage click on 'search' button to go to the search page. User can search doctors by their 'name', 'specialty' on search bar. Client side is deployed on Firebase also. Server side is built with node.js. Deployed on Heroku.
 
-#### Server: https://doctorshub.herokuapp.com/
+### Server: https://doctorshub.herokuapp.com/
 
 #### Server code: https://github.com/sabbirquince/doctors-hub-server
 
