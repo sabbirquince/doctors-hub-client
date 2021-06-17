@@ -13,7 +13,7 @@ import Footer from "./Components/Footer/Footer";
 export const UserContext = createContext();
 
 function App() {
-  const [loggedIn, setLoggedIn] = useState(true);
+  const [loggedIn, setLoggedIn] = useState(false);
 
   return (
     <UserContext.Provider value={[loggedIn, setLoggedIn]}>

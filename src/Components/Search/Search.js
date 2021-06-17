@@ -8,7 +8,7 @@ import { Spinner } from "react-bootstrap";
 const Search = () => {
   const [search, setSearch] = useState("");
   const [spinner, setSpinner] = useState(false);
-  const [doctors, setDoctors] = useState([]);
+  const [doctors, setDoctors] = useState(null);
 
   useEffect(() => {
     setSpinner(true);
