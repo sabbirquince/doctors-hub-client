@@ -6,7 +6,7 @@
 
 ### 2. User must login with google unless restricted to use this website's features.
 
-#### Info: Google authentication is built with firebase google authentication system. Project is built with React.js. In homepage click on 'search' button to go to the search page. User can search doctors by their 'name', 'specialty' on search bar. Client side is deployed on Firebase also. Server side is built with node.js. Deployed on Heroku.
+#### Info: Google authentication is built with firebase google authentication system. Project is built with React.js. In homepage click on 'search' button to go to the search page. User can search doctors by their 'name', 'specialty' on search bar. Matched data after search is retrieved from 'MongoDB'. Client side is deployed on Firebase. Server side is built with Node.js(Express.js), deployed on Heroku.
 
 ### Server: https://doctorshub.herokuapp.com/
 
